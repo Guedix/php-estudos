@@ -6,12 +6,5 @@
     </head>
 
     <body>
-        
-        <ul>
-            <li>Laranja</li>
-            <li>Maçã</li>
-            <li>Abacate</li>
-        </ul> 
-        
     </body>
 </html>
