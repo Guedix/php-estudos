@@ -9,7 +9,7 @@
 
           <?php 
           $salada = array("imagens/laranja.jpg", "imagens/maca.jpg", "imagens/abacate.jpg");
-          $fruta = $_GET["codigo"];
+          $fruta = $_GET["allan"];
           
           ?>
 
